@@ -1,9 +1,9 @@
 <div align="center">
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg"><img alt="白山 — AI Algorithm Engineer · LLM Application Engineer" src="assets/hero-light.svg"></picture>
 
-<a href="mailto:baishanmumu@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/c-email-dark.svg"><img alt="Email" src="assets/c-email-light.svg" width="280"></picture></a>
-<a href="https://x.com/baishanmumu"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/c-x-dark.svg"><img alt="X" src="assets/c-x-light.svg" width="280"></picture></a>
-<a href="https://t.me/baishanmumu"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/c-tg-dark.svg"><img alt="Telegram" src="assets/c-tg-light.svg" width="280"></picture></a>
+<a href="mailto:baishanmumu@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/c-email-dark.svg"><img alt="Email" src="assets/c-email-light.svg" width="32%"></picture></a>
+<a href="https://x.com/baishanmumu"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/c-x-dark.svg"><img alt="X" src="assets/c-x-light.svg" width="32%"></picture></a>
+<a href="https://t.me/baishanmumu"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/c-tg-dark.svg"><img alt="Telegram" src="assets/c-tg-light.svg" width="32%"></picture></a>
 </div>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/h01-dark.svg"><img alt="01 现在" src="assets/h01-light.svg"></picture>
