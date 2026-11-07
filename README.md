@@ -31,11 +31,11 @@
 
 | 层 | 来源 |
 |---|---|
-| 01 官方一手 | [Anthropic News](https://www.anthropic.com/news) · [OpenAI News](https://openai.com/news) · [Google DeepMind](https://deepmind.google) · [Hugging Face Blog](https://huggingface.co/blog) |
+| 01 官方一手 | [Anthropic News](https://www.anthropic.com/news) · [OpenAI News](https://openai.com/news/) · [Google DeepMind](https://deepmind.google) · [Hugging Face Blog](https://huggingface.co/blog) |
 | 02 研究论文 | [arXiv cs.CL](https://arxiv.org/list/cs.CL/recent) · [arXiv cs.AI](https://arxiv.org/list/cs.AI/recent) · [HF Daily Papers](https://huggingface.co/papers) |
 | 03 榜单评测 | [Arena](https://arena.ai) · [Artificial Analysis](https://artificialanalysis.ai) · [SWE-bench](https://www.swebench.com) · [OpenRouter Rankings](https://openrouter.ai/rankings) · [HELM](https://crfm.stanford.edu/helm/) · [Inspect AI](https://inspect.aisi.org.uk) |
-| 04 开源工程 | [GitHub Trending](https://github.com/trending) · [Topic: llm](https://github.com/topics/llm) · [MCP](https://modelcontextprotocol.io) · [OTel GenAI 语义约定](https://opentelemetry.io/docs/specs/semconv/gen-ai/) |
-| 05 社区周刊 | [Hacker News](https://news.ycombinator.com) · [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA/) · [Latent Space](https://www.latent.space) · [Simon Willison](https://simonwillison.net) · [The Batch](https://www.deeplearning.ai/the-batch/) · [Import AI](https://importai.substack.com) |
+| 04 开源工程 | [GitHub Trending](https://github.com/trending) · [Topic: llm](https://github.com/topics/llm) · [MCP](https://modelcontextprotocol.io) · [OTel GenAI 语义约定](https://github.com/open-telemetry/semantic-conventions-genai) |
+| 05 社区周刊 | [Hacker News](https://news.ycombinator.com) · [Latent Space](https://www.latent.space) · [Simon Willison](https://simonwillison.net) · [The Batch](https://www.deeplearning.ai/the-batch/) · [Import AI](https://importai.substack.com/archive) |
 
 <sub>自己整理的速查：<a href="notes/01-single-vs-multi-agent.md">单 Agent 还是多 Agent</a> · <a href="notes/02-rag-debugging.md">RAG 失败归因</a> · <a href="notes/03-agent-eval-checklist.md">Agent 评测清单</a> · <a href="notes/04-prelaunch-checklist.md">上线前检查</a></sub>
 
