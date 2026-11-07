@@ -37,7 +37,6 @@
 | 04 开源工程 | [GitHub Trending](https://github.com/trending) · [Topic: llm](https://github.com/topics/llm) · [MCP](https://modelcontextprotocol.io) · [OTel GenAI 语义约定](https://github.com/open-telemetry/semantic-conventions-genai) |
 | 05 社区周刊 | [Hacker News](https://news.ycombinator.com) · [Latent Space](https://www.latent.space) · [Simon Willison](https://simonwillison.net) · [The Batch](https://www.deeplearning.ai/the-batch/) · [Import AI](https://importai.substack.com/archive) |
 
-<sub>自己整理的速查：<a href="notes/01-single-vs-multi-agent.md">单 Agent 还是多 Agent</a> · <a href="notes/02-rag-debugging.md">RAG 失败归因</a> · <a href="notes/03-agent-eval-checklist.md">Agent 评测清单</a> · <a href="notes/04-prelaunch-checklist.md">上线前检查</a></sub>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/h05-dark.svg"><img alt="05 技术栈" src="assets/h05-light.svg"></picture>
 
